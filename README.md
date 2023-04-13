@@ -1,8 +1,8 @@
 ## Hey 👋, I'm Fatimah Adel!
-<a href='https://www.linkedin.com/in/fatimah-adel/'><img align='left' alt="linkedin" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height='25px'/></a>
-<a href='https://leetcode.com/fatimahshweel1/'><img align='left' alt="leetcode" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height='25px'/></a>
-<a href='https://www.kaggle.com/fatimahadel'><img align='left' alt="kaggle" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" height='25px'/></a>
-<a href='https://codeforces.com/profile/Fatimah_Adel'><img alt="codeforces" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" height='25px'/></a>
+<a href='https://www.linkedin.com/in/fatimah-adel/'><img align='left' alt="linkedin" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height='30px'/></a>
+<a href='https://leetcode.com/fatimahshweel1/'><img align='left' alt="leetcode" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height='30px'/></a>
+<a href='https://www.kaggle.com/fatimahadel'><img align='left' alt="kaggle" src="https://cdn.iconscout.com/icon/free/png-512/leetcode-3521542-2944960.png?f=avif&w=256" height='30px'/></a>
+<a href='https://codeforces.com/profile/Fatimah_Adel'><img alt="codeforces" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" height='30px'/></a>
 
 
 
@@ -10,17 +10,18 @@ I am a Computer Science student 👩🏻‍🎓, and i'm studying  (Machine Lear
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
   
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on My Graduation Project (Driving behavior and Attitude) and various AI projects too.
 - 🤝 &nbsp; I’m looking to collaborate on open-source AI Projects (NLP, Computer Vision).
 - 🌱 &nbsp; I’m currently learning Data Analysis, Reinforcement Learning and Time Series Analysis.
-- 👩🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)########
+- 👩🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/organizations/AI-Code-Buddies).
 - 💬 &nbsp; Ask me about anything AI related, I am happy to help.
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1QcfJxGoBXy0nUg_h4Z2OEDY-9FmDWqng/view?usp=sharing)
-- 🍕 &nbsp; In my free time, I enjoy cooking, especially Italian dishes, as well as watching detective and thriller series. (Sherlock Holmes🕵🏻‍♀️) is my favorite.
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1QcfJxGoBXy0nUg_h4Z2OEDY-9FmDWqng/view?usp=sharing).
+- 🍕 &nbsp; In my free time, I enjoy cooking, especially Italian dishes,as well as watching detective
+and thriller series. (Sherlock Holmes🕵🏻‍♀️) is my favorite.
 
 <br>
 
@@ -35,9 +36,12 @@ I am a Computer Science student 👩🏻‍🎓, and i'm studying  (Machine Lear
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
 <br>
-
+<br>
 
 ### 📊 Github Stats
-![](https://github-readme-stats.vercel.app/api?username=FatimahAdel&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=FatimahAdel&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimahAdel&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=FatimahAdel&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=FatimahAdel&theme=dracula&hide_border=false)
+</p>
+<p align="center">
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimahAdel&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</p>
