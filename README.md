@@ -14,7 +14,8 @@ I am a Computer Science student 👩🏻‍🎓, and i'm studying  (Machine Lear
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on My Graduation Project (Driving behavior and Attitude) and various AI projects too.
+- 🔭 &nbsp; I’m currently working on My Graduation Project (Driving behavior and Attitude)
+     and various AI projects too.
 - 🤝 &nbsp; I’m looking to collaborate on open-source AI Projects (NLP, Computer Vision).
 - 🌱 &nbsp; I’m currently learning Data Analysis, Reinforcement Learning and Time Series Analysis.
 - 👩🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/organizations/AI-Code-Buddies).
