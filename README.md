@@ -41,6 +41,7 @@ and thriller series. (Sherlock Holmes🕵🏻‍♀️) is my favorite.
 
 ### 📊 Github Stats
 
-![](https://github-readme-stats.vercel.app/api?username=FatimahAdel&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)  ![](https://github-readme-streak-stats.herokuapp.com/?user=FatimahAdel&theme=dracula&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=FatimahAdel&theme=dracula&hide_border=false&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=FatimahAdel&theme=dracula&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimahAdel&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=FatimahAdel&theme=dracula&hide_border=false&include_all_commits=false&count_private=false"/> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FatimahAdel&theme=dracula&hide_border=false" />|
